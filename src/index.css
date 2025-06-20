@@ -7,6 +7,7 @@
   --color-icons: #38B2AC;
   --color-header: #1A202C;
   --color-white: #FFFFFF;
+  --color-background: #e8f6fe;
   --color-hero: #1A202C;
   --font-poppins: 'Poppins', sans-serif;
 }
@@ -14,3 +15,4 @@
 .container {
     @apply mx-auto max-w-[1252px] px-16 max-xl:px-10 max-lg:px-6 max-sm:px-6;
 }
+
