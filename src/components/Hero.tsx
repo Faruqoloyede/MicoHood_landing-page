@@ -17,8 +17,8 @@ const Hero = () => {
           <p className="text-base text-gray-600 mt-4 max-w-lg mx-auto lg:mx-0">
             MicoHood helps you stay informed and support local businesses—all in one app.
           </p>
-          <button className="bg-primary text-white px-6 py-3 rounded-md mt-8 hover:bg-primary/90 transition">
-            Join Now
+          <button className="bg-primary cursor-pointer text-white px-6 py-3 rounded-md mt-8 hover:bg-primary/90 transition">
+            <a href="#join">Join Now</a>
           </button>
         </motion.div>
 
