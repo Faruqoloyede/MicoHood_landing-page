@@ -9,7 +9,12 @@
   --color-white: #FFFFFF;
   --color-background: #e8f6fe;
   --color-hero: #1A202C;
+  --color-gray: #F7FAFC;
   --font-poppins: 'Poppins', sans-serif;
+}
+
+body {
+  scroll-behavior: smooth;
 }
 
 .container {

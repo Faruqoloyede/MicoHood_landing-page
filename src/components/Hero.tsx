@@ -17,7 +17,7 @@ const Hero = () => {
           <img
             src="/hero.png"
             alt="Neighborhood illustration"
-            className="w-full sm:w-[360px] md:w-[440px] lg:w-[500px] h-auto object-contain"
+            className="w-[300px] sm:w-[360px] md:w-[440px] lg:w-[500px] h-auto object-contain"
           />
         </div>
       </div>
