@@ -2,7 +2,7 @@
 
 A responsive landing page for **MicoHood**, the neighborhood community app by **Micotech**.
 
-
+![MicoHood Landing Page](./public/microhood.png)
 
 ---
 
@@ -59,4 +59,4 @@ npm install
 npm run dev
 
 
-![MicoHood Landing Page](./public/microhood.png)
+
