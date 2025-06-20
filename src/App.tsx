@@ -1,7 +1,10 @@
+import Header from "./components/Header"
 
 const App = () => {
   return ( 
-    <div className="text-2xl text-primary">App</div>
+    <div className="overflow-hidden">
+      <Header />
+    </div>
   )
 }
 
